@@ -1,4 +1,4 @@
-👋 Hi, I’m @ClayStevenTurner
+# 👋 Hi, I’m @ClayStevenTurner
 
 At the moment, I primarily use Github in my free time to learn more python and explore innovations in machine learning. If you'd like to connect or get some work done together, please find me over on LinkedIn. 
 
